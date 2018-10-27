@@ -59,7 +59,7 @@ def shear2(image):
     return dst
 
 folder_path = 'User/Desktop/img_aug/Dataset'
-num_files_desired = 50
+num_files_desired = 60
 num_generated_files = 0
 
 

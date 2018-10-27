@@ -1,5 +1,5 @@
 # image_augmetation
-Python script to add different random geometrical transformations or noise on a single image to create a small dataset of 50 images. 
+Python script to add different random geometrical transformations or noise on a single image to create a small dataset of 60 images. 
 
 # Libraries
 The following libraries are needed to run this script -
